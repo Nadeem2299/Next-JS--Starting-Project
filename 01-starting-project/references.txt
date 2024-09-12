@@ -1,0 +1,23 @@
+React => client side  rendering
+Next => server side (backend) + client side (front end)
+
+Pages Router(old) vs App Router
+Pages Router-
+1) Has been used for many years
+2) very stable
+3) Used in many existing NEXTJS projects
+4) allows you to build feature-rich full stack apps with react
+
+App Router
+1) Introduced in NEXTJS 13
+2) Marked as stable but still relatively new and partially buggy
+3) Support modern Next and React features (-> full stack react apps)
+4) Future of Next js
+
+File names in NEXTJS:
+page.js => define page content
+layout.js => define wrapper around page
+not-found => define " Not Found fallback page"
+error.js => Define "error" fallback page
+
+Note: Next js haddles pages on the server
